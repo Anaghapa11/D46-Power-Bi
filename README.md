@@ -26,3 +26,13 @@ A Assignment two is about data Visualization using Power Query and power Bi
 9. Create Filters.
 10. Add interactivity (Drill down and drill up)
 11. Created an interactive sales report.
+
+# Assignment 3
+Module end assignment- Data Analysis using Power BI
+Financial performance Analysis using Power BI
+
+# Steps done
+1. Analyze Financial data to identify trends, key metrics, and actionable insights.
+2. Effective preprocessing techniques applied to ensure data quality.
+3. Included more than 7 Visuals to effectively convey insights from the dataset.
+4. Included buttons and bookmarks to enhance the user experience and interactivity of the dataset.
